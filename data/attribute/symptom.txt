@@ -1,0 +1,177 @@
+cachexia 
+appetite
+loss
+gain
+weight
+dry
+mouth
+weakness
+loss of appetite 
+weight loss 
+weight gain
+dry mouth 
+fatigue 
+malaise
+asthenia
+muscle weakness
+pyrexia
+jaundice
+pain
+abdominal pain 
+chest pain 
+bruising 
+epistaxis 
+tremor 
+convulsions 
+muscle
+cramps 
+tinnitus
+dizziness
+vertigo 
+syncope 
+hypothermia 
+hyperthermia 
+discharge
+bleeding
+swelling
+deformity
+sweats
+chills 
+shivering
+Neurological
+Psychological
+acalculia
+acrophobia
+agnosia
+agoraphobia
+akathisia
+akinesia
+alexia
+amusia
+anhedonia
+anomia
+anosognosia
+anxiety
+apraxia
+arachnophobia
+ataxia
+bradykinesia
+cataplexy
+chorea
+claustrophobia
+confusion
+deliberate self harm and drug overdose
+depression
+dysarthria
+dysdiadochokinesia
+dysgraphia
+dystonia
+euphoria
+hallucination
+headache
+hemiballismus
+ballismus
+homicidal ideation
+Lhermitte's sign
+mania 
+paralysis
+paranoia
+persecution
+paresthesia
+phobia 
+prosopagnosia
+sciatica
+somnolence 
+suicidal
+ideation
+tic
+tremor
+Ocular
+amaurosis fugax  
+amaurosis
+blurred vision
+Dalrymple's sign
+double vision 
+exophthalmos 
+mydriasis
+miosis 
+nystagmus
+Gastrointestinal
+anorexia 
+bloating 
+belching
+blood
+stool
+melena 
+hematochezia
+constipation 
+diarrhea 
+dysphagia 
+dyspepsia 
+flatulence 
+fecal
+incontinence
+haematemesis
+nausea 
+odynophagia
+proctalgia
+fugax
+pyrosis 
+rectal
+malodor
+steatorrhea
+vomiting 
+Cardiovascular
+chest pain 
+claudication
+palpitation 
+tachycardia 
+bradycardia 
+arrhythmia
+Urologic
+dysuria 
+hematuria 
+impotence 
+polyuria 
+retrograde
+ejaculation
+strangury
+urinary
+frequency 
+incontinence 
+retention
+Pulmonary
+hypoventilation
+hyperventilation
+bradypnea 
+apnea
+cough 
+dyspnea 
+hemoptysis 
+pleuritic chest pain
+sputum production 
+tachypnea 
+Integumentary
+abrasion
+alopecia
+anasarca 
+blister 
+edema 
+hirsutism
+itching 
+laceration
+paresthesia 
+rash 
+urticaria 
+Obstetric 
+Gynaecological
+abnormal vaginal bleeding
+bloody show preceding onset of labour
+painful intercourse 
+pelvic pain
+infertility
+labour pains
+vaginal bleeding in early pregnancy / miscarriage
+vaginal bleeding in late pregnancy
+vaginal discharge
+vaginismus 
